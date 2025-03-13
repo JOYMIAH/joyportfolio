@@ -4,7 +4,7 @@ export const educationData = [
         institution: 'Daffodil International University',
         course: 'B.Sc In Computer Science & Engineering',
         startYear: '2021',
-        endYear: 'Present'
+        endYear: '2024'
     },
     {
         id: 2,

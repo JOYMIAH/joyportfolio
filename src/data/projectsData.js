@@ -1,5 +1,5 @@
 import one from '../assets/svg/projects/one.png'
-import two from '../assets/svg/projects/two.png'
+import two from '../assets/svg/projects/two.jpg'
 
 
 export const projectsData = [
@@ -14,11 +14,11 @@ export const projectsData = [
     },
     {
         id: 2,
-        projectName: 'Deploy Python Application on EC2',
-        projectDesc: 'In this project We Deployed Python Application on EC2 Using CI/CD Pipeline .',
-        tags: ['Python', 'EC2', 'Jenkins'],
-        code: 'https://github.com/JOYMIAH/automated-deployment.git',
-        demo: 'http://13.234.18.140:8089/todos/',
+        projectName: 'Secured CI/CD Pipeline With Monitoriing and Alerting system',
+        projectDesc: 'In this project We build a pipeline to deliver appliation frequently and reliability.',
+        tags: ['Java', 'Docker','Kubernetes','Prometheus','Grafana','ArgoCD','Trivy', 'Jenkins'],
+        code: 'https://github.com/JOYMIAH/CI-CD-Pipeline-DIU.git',
+        demo: 'https://docs.google.com/document/d/1RXs9pM-XzMvkVBr0AAZzyjptBYM-3e7h/edit?usp=sharing&ouid=104569912899093862301&rtpof=true&sd=true',
         image: two
     }
 ]

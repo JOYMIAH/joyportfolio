@@ -99,8 +99,8 @@ function LandingUI({ theme, drawerOpen, classes }) {
                         <Typed
                             strings={[
                                 'DevOps Engineer',
-                                'Database Administrator',
-                                'Server Administrator']}
+                                'System Engineer',
+                                ,'Network Engineer']}
                             typeSpeed={40}
                             backSpeed={50}
                             className="typed-header"

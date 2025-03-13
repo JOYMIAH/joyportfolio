@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'shaharianazimjoy@gmail.com',
-    phone: '+8801713447724',
-    address: 'Bashundhara R/A,Block-I,Road-13,Dhaka Bangladesh',
+    email: 'joymiah.cse@gmail.com',
+    phone: '+8801749814040',
+    address: 'House#877,Road#13,Block#i,Bashundhara R/A.Vatara Dhaka',
 
     sheetAPI: ''
 }
