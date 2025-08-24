@@ -13,6 +13,8 @@ import certificate12 from "../assets/certificate/certificate09.jpg";
 import certificate13 from "../assets/certificate/certificate10.png";
 import certificate14 from "../assets/certificate/certificate11.jpg";
 import certificate15 from "../assets/certificate/certificate12.jpg";
+import certificate16 from "../assets/certificate/certificate16.jpg";
+import certificate17 from "../assets/certificate/certificate17.jpg";
 
 export const certificateData = [
   {
@@ -107,5 +109,17 @@ export const certificateData = [
     title: "Oracle Autonomous Database Administration",
     image: certificate15,
     link: "https://www.coursera.org/account/accomplishments/verify/RELBR9CZM8M8",
+  },
+  {
+    id: "16",
+    title: "Ethical Hacker",
+    image: certificate16,
+    link: "https://www.credly.com/badges/20e00a6f-ce06-43ab-80a4-9ebc5c076247",
+  },
+  {
+    id: "17",
+    title: "IELTS (Academic)",
+    image: certificate17,
+    link: "https://ieltsregistration.britishcouncil.org/ttp/ors/test-details/13473410/results",
   },
 ];
